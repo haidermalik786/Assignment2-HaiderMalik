@@ -1,0 +1,9 @@
+I chose option A which is creating a classified ad site
+
+the 2 functions i chose to implement where a drop down menu and an option to upload an image to your ad
+
+
+Name:Haider Malik
+Student Number:200380367
+
+github Link:https://github.com/haidermalik786/Assignment2-HaiderMalik.git
