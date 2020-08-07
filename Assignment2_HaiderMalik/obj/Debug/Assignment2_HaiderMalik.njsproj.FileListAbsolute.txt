@@ -1,0 +1,3 @@
+C:\Users\haide\source\repos\Assignment2_HaiderMalik\obj\Debug\Assignment2_HaiderMalik.njsprojAssemblyReference.cache
+C:\Users\haide\source\repos\Assignment2_HaiderMalik\obj\Debug\Assignment2_HaiderMalik.njsproj.CoreCompileInputs.cache
+C:\Users\haide\source\repos\Assignment2_HaiderMalik\bin\Microsoft.NodejsTools.WebRole.dll

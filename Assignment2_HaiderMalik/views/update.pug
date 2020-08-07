@@ -1,0 +1,15 @@
+﻿extends layout
+
+block content
+  h1 Update Article below
+  //Insert form
+  form(method='POST' action='/update')
+    div
+        h2 Insert name
+        input(type='text' name='name' value=article.name)
+    div
+        h2 Description
+        input(type='text' name='description' value=article.description)
+    div
+        input(type='hidden' name='id' value=article.id)
+        button(type='submit' value='Submit') Submit

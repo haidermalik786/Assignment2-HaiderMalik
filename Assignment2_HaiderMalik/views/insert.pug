@@ -1,0 +1,29 @@
+﻿extends layout
+
+block content
+  h1 Post Ad below
+  //Insert form
+  form(method='POST' action='/insert' enctype='multipart/form-data')
+    div
+        h2 Insert Ad name
+        input(type='text' name='name')
+    div
+        h2 Ad Description
+        input(type='text' name='description')
+    div
+        h2 Ad Price
+        input(type='text' name='description')
+
+    div
+        select(name='Categories', id='')
+    each val in ['furniture' , 'cars/trucks' , 'electronics']
+        option=val
+
+
+    div
+        h2 Add an Image
+        input(type='file' name='image')
+    div
+        button(type='submit' value='Submit') Submit
+
+    
